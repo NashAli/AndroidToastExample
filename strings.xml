@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomToastTest</string>
+    <string name="custom_typeface">custom typeface</string>
+    <string name="plain_toast">plain toast</string>
+</resources>
